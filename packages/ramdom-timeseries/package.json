@@ -1,6 +1,6 @@
 {
   "name": "@data-apps/random-timeseries",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "micro data app that visualizes random time series data",
   "keywords": [
     "time-series",
