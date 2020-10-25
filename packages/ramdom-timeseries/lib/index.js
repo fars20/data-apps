@@ -1,7 +1,1 @@
-'use strict';
-
-module.exports = ramdomTimeseries;
-
-function ramdomTimeseries() {
-    // TODO
-}
+export default () => "Random time series data app";
