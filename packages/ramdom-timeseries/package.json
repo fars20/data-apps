@@ -1,0 +1,32 @@
+{
+  "name": "@data-apps/random-timeseries",
+  "version": "0.0.0",
+  "description": "micro data app that visualizes random time series data",
+  "keywords": [
+    "time-series",
+    "random-sources"
+  ],
+  "homepage": "https://github.com/fars20/data-apps#readme",
+  "license": "UNLICENCED",
+  "main": "lib/ramdom-timeseries.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fars20/data-apps.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/fars20/data-apps/issues"
+  }
+}
