@@ -1,1 +1,1 @@
-export default () => "Random time series data app";
+export default () => "Random time series data app ";
