@@ -2,15 +2,15 @@ export default [{
   input: 'lib/index.js',
   output: [
     {
-      file: 'cjs/index.js',
+      file: 'dist/cjs/index.js',
       format: 'cjs'
     },
     {
-      file: 'es/index.js',
+      file: 'dist/es/index.js',
       format: 'es'
     },
     {
-      file: 'umd/index.js',
+      file: 'dist/umd/index.js',
       name: 'DataAppsRandomTimeseries',
       format: 'umd'
     }

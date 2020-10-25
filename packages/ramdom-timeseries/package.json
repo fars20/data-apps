@@ -8,9 +8,9 @@
   ],
   "homepage": "https://github.com/fars20/data-apps#readme",
   "license": "UNLICENCED",
-  "main": "lib/index.js",
+  "main": "dist/es/index.js",
   "directories": {
-    "lib": "lib",
+    "dist": "dist",
     "test": "__tests__"
   },
   "files": [
